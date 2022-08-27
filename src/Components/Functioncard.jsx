@@ -1,6 +1,5 @@
 import React from "react";
 import Button from 'react-bootstrap/Button';
-import Grid from '@mui/material/Grid';
 import Card from 'react-bootstrap/Card';
 import bubble from '../assets/bubble.png'
 import linear from '../assets/linear_search.jpg'
